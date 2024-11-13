@@ -1,0 +1,16 @@
+{
+  "name": "new_tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.11"
+  }
+}
